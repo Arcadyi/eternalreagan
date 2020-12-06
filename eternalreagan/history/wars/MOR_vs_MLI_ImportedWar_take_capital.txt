@@ -1,0 +1,14 @@
+name = "Moroccan-Malian Imperialist War"
+
+1722.5.6 = {
+	add_attacker = MOR
+	add_defender = MLI
+
+	war_goal = {
+		casus_belli = annex_core_country
+		actor = MOR
+		receiver = MLI
+		country = MLI
+		state_province_id = 1904
+	}
+}

@@ -1,0 +1,13 @@
+name = "2nd Air Reconquest of Itesan"
+
+1719.8.10 = {
+	add_attacker = AYR
+	add_defender = MLI
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = AYR
+		receiver = MLI
+		state_province_id = 1811
+	}
+}

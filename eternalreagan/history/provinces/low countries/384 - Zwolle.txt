@@ -1,0 +1,10 @@
+owner=KOL
+controller=KOL
+add_core=BRE
+add_core=FRI
+add_core=NET
+add_core=UTR
+trade_goods = fish
+life_rating = 35
+terrain = farmlands
+naval_base = 1

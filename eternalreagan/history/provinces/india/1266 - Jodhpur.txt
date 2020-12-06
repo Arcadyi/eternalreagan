@@ -1,0 +1,7 @@
+owner=GUJ
+controller=SIN
+add_core=GUJ
+add_core=MEW
+trade_goods = tea
+life_rating = 32
+terrain = plains

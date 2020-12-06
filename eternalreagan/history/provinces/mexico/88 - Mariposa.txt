@@ -1,0 +1,6 @@
+owner=ZNI
+controller=CAL
+add_core=ZNI
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

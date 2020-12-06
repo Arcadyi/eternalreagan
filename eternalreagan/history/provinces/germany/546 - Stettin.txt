@@ -1,0 +1,9 @@
+owner=KOL
+controller=KOL
+add_core=GER
+add_core=HAM
+add_core=KOL
+add_core=X14
+trade_goods = fish
+life_rating = 40
+terrain = farmlands

@@ -1,0 +1,564 @@
+1892 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 4000
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 216
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 864
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 43
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 181
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 16139
+	}
+
+}
+1893 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 10400
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 376
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 1504
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 244
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 75
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 316
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 24655
+	}
+
+}
+1894 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 3600
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 198
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 792
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 48
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 166
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 14851
+	}
+
+}
+1895 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 225
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 8925
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 2700
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = animist
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 25
+	}
+
+}
+1896 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = kru
+		religion = animist
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = kru
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = kru
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 7300
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = animist
+		size= 15025
+	}
+
+	slaves=
+	{
+		culture = kru
+		religion = animist
+		size= 5000
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = kru
+		religion = animist
+		size= 225
+	}
+
+}
+1897 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 2581
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 198
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 791
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 18
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 166
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 15885
+	}
+
+}
+1898 = {
+	slaves=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 3200
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 176
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 1584
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 148
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 12355
+	}
+
+}
+1899 = {
+	slaves=
+	{
+		culture = akan
+		religion = shamanism
+		size= 2581
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 155
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shamanism
+		size= 619
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shamanism
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shamanism
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shamanism
+		size= 11871
+	}
+
+}
+1900 = {
+	slaves=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 2400
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 192
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 1724
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 10
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 161
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 14533
+	}
+
+}

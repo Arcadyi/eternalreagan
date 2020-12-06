@@ -1,0 +1,8 @@
+owner=X03
+controller=X03
+add_core=GER
+add_core=X02
+add_core=X13
+trade_goods = coal
+life_rating = 40
+terrain = woods

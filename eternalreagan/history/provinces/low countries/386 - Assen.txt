@@ -1,0 +1,9 @@
+owner=KOL
+controller=KOL
+add_core=BRE
+add_core=FRI
+add_core=NET
+add_core=UTR
+trade_goods = wool
+life_rating = 35
+terrain = farmlands

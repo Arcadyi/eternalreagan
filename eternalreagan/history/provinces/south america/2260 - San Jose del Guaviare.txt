@@ -1,0 +1,6 @@
+owner=CLM
+controller=CLM
+trade_goods = cattle
+life_rating = 25
+terrain = jungle
+colonial=2

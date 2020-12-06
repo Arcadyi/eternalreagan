@@ -1,0 +1,7 @@
+owner=QUE
+controller=QUE
+trade_goods = iron
+life_rating = 35
+terrain = forest
+colonial=2
+naval_base = 2

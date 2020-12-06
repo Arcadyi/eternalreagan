@@ -1,0 +1,8 @@
+owner=LOM
+controller=LOM
+add_core=GEN
+add_core=LOM
+trade_goods = fruit
+life_rating = 35
+terrain = hills
+naval_base = 1

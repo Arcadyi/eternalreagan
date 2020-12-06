@@ -1,0 +1,26 @@
+#Sphere of Influence
+
+DAI = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+SUK = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

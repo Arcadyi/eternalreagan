@@ -1,0 +1,624 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARD = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAD = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = -10
+	level = 2
+}
+CAB = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = 0
+	level = 2
+}
+CIR = {
+	value = 1
+	military_access = yes
+	influence_value = 50
+	level = 5
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMA = {
+	value = 0
+	level = 2
+}
+COC = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 224
+	military_access = yes
+	influence_value = 63
+	level = 5
+}
+DLM = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENA = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FUL = {
+	value = 8
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GUG = {
+	value = 164
+	military_access = yes
+	influence_value = 48
+	level = 5
+}
+GUJ = {
+	value = 40
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+KAN = {
+	value = 0
+	level = 2
+}
+KAQ = {
+	value = 0
+	level = 2
+}
+KGR = {
+	value = 193
+	military_access = yes
+	influence_value = 55
+	level = 5
+}
+KHA = {
+	value = -45
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LOI = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+NEN = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRM = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 6
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SRM = {
+	value = 219
+	military_access = yes
+	influence_value = 92
+	level = 5
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+TIM = {
+	value = 9
+	level = 2
+}
+TLA = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+TPA = {
+	value = 0
+	level = 2
+}
+TPQ = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 22
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+UTR = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 155
+	influence_value = 26
+	level = 4
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 28
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Yesu Mongke I Kirghiz"
+	date="1717.2.17"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Dost Muhammad Tolui-gene"
+	date="1702.1.17"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Tarmashirin Bayan Vachir"
+	date="1717.2.19"
+	type=land
+	personality="intuitive"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Baraq Altan Unegen"
+	date="1717.5.4"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=2683
+	regiment = {
+		name="1st Khotan Irregulars"
+		type=irregular
+		home=1598
+	}
+	regiment = {
+		name="1st Bishkek Artillery"
+		type=artillery
+		home=1189
+	}
+	regiment = {
+		name="2nd Jiayuguan Irregulars"
+		type=irregular
+		home=1488
+	}
+	regiment = {
+		name="1st Khorug Irregulars"
+		type=irregular
+		home=1208
+	}
+	regiment = {
+		name="1st Slavgorod Artillery"
+		type=artillery
+		home=2698
+	}
+}
+
+army = {
+	name="16th Army"
+	location=2698
+	regiment = {
+		name="1st Bishkek Cavalry"
+		type=cavalry
+		home=1189
+	}
+	regiment = {
+		name="1st Alma Ata Artillery"
+		type=artillery
+		home=1186
+	}
+	regiment = {
+		name="2nd Bishkek Cavalry"
+		type=cavalry
+		home=1189
+	}
+	regiment = {
+		name="3rd Bishkek Cavalry"
+		type=cavalry
+		home=1189
+	}
+	regiment = {
+		name="1st Naryn Artillery"
+		type=artillery
+		home=1190
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1059
+	regiment = {
+		name="1st Guryev Cavalry"
+		type=cavalry
+		home=1182
+	}
+	regiment = {
+		name="1st Grozny Artillery"
+		type=artillery
+		home=1055
+	}
+	regiment = {
+		name="1st Kokshetau Cavalry"
+		type=cavalry
+		home=1184
+	}
+	regiment = {
+		name="1st Jiayuguan Cavalry"
+		type=cavalry
+		home=1488
+	}
+	regiment = {
+		name="1st Jiayuguan Artillery"
+		type=artillery
+		home=1488
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1182
+	regiment = {
+		name="1st Aqtau Irregulars"
+		type=irregular
+		home=1194
+	}
+	regiment = {
+		name="1st Busuluk Irregulars"
+		type=irregular
+		home=1043
+	}
+	regiment = {
+		name="4th Jiayuguan Irregulars"
+		type=irregular
+		home=1488
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1599
+	regiment = {
+		name="1st Jiayuguan Irregulars"
+		type=irregular
+		home=1488
+	}
+	regiment = {
+		name="3rd Jiayuguan Irregulars"
+		type=irregular
+		home=1488
+	}
+	regiment = {
+		name="5th Jiayuguan Irregulars"
+		type=irregular
+		home=1488
+	}
+}
+

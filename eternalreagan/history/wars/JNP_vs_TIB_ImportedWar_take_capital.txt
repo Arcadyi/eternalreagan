@@ -1,0 +1,13 @@
+name = "Assamese-Avan Imperialist War"
+
+1722.6.4 = {
+	add_attacker = JNP
+	add_defender = TIB
+
+	war_goal = {
+		casus_belli = annex_core_country
+		actor = JNP
+		receiver = TIB
+		state_province_id = 1342
+	}
+}

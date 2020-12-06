@@ -1,0 +1,8 @@
+owner=TDO
+controller=TDO
+add_core=PHI
+add_core=TDO
+trade_goods = iron
+life_rating = 30
+terrain = hills
+naval_base = 1

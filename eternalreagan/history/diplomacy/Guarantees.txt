@@ -1,0 +1,16 @@
+guarantee=
+{
+	first="VIJ"
+	second="MAW"
+	start_date="1709.6.18"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="X00"
+	second="JAP"
+	start_date="1720.5.21"
+	end_date="1936.1.1"
+}
+

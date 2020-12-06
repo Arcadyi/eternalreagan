@@ -1,0 +1,9 @@
+owner=X03
+controller=KOL
+add_core=GER
+add_core=BRN
+add_core=HAM
+add_core=X03
+trade_goods = fruit
+life_rating = 42
+terrain = farmlands

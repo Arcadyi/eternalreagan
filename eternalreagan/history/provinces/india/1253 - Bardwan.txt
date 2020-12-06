@@ -1,0 +1,7 @@
+owner=MBL
+controller=BNG
+add_core=MBL
+trade_goods = silk
+life_rating = 32
+terrain = jungle
+fort = 2

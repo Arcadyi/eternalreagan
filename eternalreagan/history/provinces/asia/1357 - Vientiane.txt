@@ -1,0 +1,9 @@
+owner=PEG
+controller=DAI
+add_core=LNA
+add_core=LUA
+add_core=PEG
+add_core=SIA
+trade_goods = grain
+life_rating = 30
+terrain = mountain

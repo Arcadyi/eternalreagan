@@ -1,0 +1,8 @@
+owner=KSJ
+controller=KSJ
+add_core=KSJ
+add_core=KUB
+add_core=YKA
+trade_goods = fruit
+life_rating = 15
+terrain = jungle

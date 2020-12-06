@@ -1,0 +1,8 @@
+owner=CST
+controller=CST
+add_core=COC
+add_core=HST
+add_core=TOT
+trade_goods = cattle
+life_rating = 35
+terrain = plains

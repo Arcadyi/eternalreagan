@@ -1,0 +1,14 @@
+owner=X00
+controller=X00
+add_core=MCK
+add_core=NVK
+trade_goods = fish
+life_rating = 35
+terrain = plains
+colonial=2
+state_building=
+{
+	level=1
+	building = luxury_clothes_factory
+	upgrade = yes
+}

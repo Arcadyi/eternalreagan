@@ -1,0 +1,8 @@
+owner=COC
+controller=MEX
+add_core=CHT
+add_core=COC
+add_core=KIC
+trade_goods = iron
+life_rating = 30
+terrain = jungle

@@ -1,0 +1,6 @@
+owner=CST
+controller=CST
+trade_goods = cotton
+life_rating = 35
+terrain = woods
+colonial=2

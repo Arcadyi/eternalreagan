@@ -1,0 +1,10 @@
+owner=X03
+controller=X03
+add_core=GER
+add_core=BRN
+add_core=HAM
+add_core=X02
+add_core=X13
+trade_goods = grain
+life_rating = 40
+terrain = plains

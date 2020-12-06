@@ -1,0 +1,7 @@
+owner=KGR
+controller=KGR
+add_core=KAS
+add_core=KGR
+trade_goods = silk
+life_rating = 32
+terrain = mountain

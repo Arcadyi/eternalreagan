@@ -1,0 +1,9 @@
+owner=CHG
+controller=CHG
+add_core=BYA
+add_core=CHG
+add_core=HMI
+add_core=KHA
+trade_goods = grain
+life_rating = 32
+terrain = woods

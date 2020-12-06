@@ -1,0 +1,7 @@
+owner=JNP
+controller=JNP
+add_core=MKP
+add_core=TRT
+trade_goods = tea
+life_rating = 25
+terrain = mountain

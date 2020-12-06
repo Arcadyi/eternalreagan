@@ -1,0 +1,186 @@
+2241 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2345
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1118
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 414
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 197
+	}
+
+}

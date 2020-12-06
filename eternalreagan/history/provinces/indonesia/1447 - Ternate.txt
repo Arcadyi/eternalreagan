@@ -1,0 +1,7 @@
+owner=EGY
+controller=EGY
+add_core=MAL
+add_core=TID
+trade_goods = fish
+life_rating = 30
+terrain = plains

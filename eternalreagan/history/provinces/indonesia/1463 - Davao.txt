@@ -1,0 +1,6 @@
+owner=TDO
+controller=TDO
+trade_goods = iron
+life_rating = 30
+terrain = jungle
+naval_base = 1

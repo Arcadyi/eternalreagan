@@ -1,0 +1,8 @@
+owner=DAI
+controller=DAI
+add_core=LUA
+add_core=SIA
+add_core=SUK
+trade_goods = grain
+life_rating = 30
+terrain = mountain

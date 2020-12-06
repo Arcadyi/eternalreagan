@@ -1,0 +1,7 @@
+owner=CST
+controller=MEX
+add_core=COC
+add_core=YOK
+trade_goods = iron
+life_rating = 35
+terrain = plains

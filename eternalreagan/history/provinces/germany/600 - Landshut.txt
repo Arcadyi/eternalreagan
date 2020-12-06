@@ -1,0 +1,10 @@
+owner=PRU
+controller=PRU
+add_core=GER
+add_core=AUG
+add_core=GER
+add_core=LBV
+add_core=X11
+trade_goods = cattle
+life_rating = 40
+terrain = farmlands

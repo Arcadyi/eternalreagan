@@ -1,0 +1,7 @@
+owner=PRU
+controller=PRU
+add_core=FER
+add_core=MTA
+trade_goods = timber
+life_rating = 35
+terrain = farmlands

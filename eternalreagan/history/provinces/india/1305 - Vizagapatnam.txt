@@ -1,0 +1,7 @@
+owner=MAW
+controller=MAW
+add_core=AND
+add_core=MAW
+trade_goods = tobacco
+life_rating = 32
+terrain = plains

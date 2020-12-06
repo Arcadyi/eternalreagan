@@ -1,0 +1,8 @@
+owner=BUE
+controller=BUE
+add_core=CCQ
+add_core=INC
+trade_goods = wool
+life_rating = 35
+terrain = plains
+colonial=2

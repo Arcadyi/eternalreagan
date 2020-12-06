@@ -1,0 +1,7 @@
+owner=TIM
+controller=SIN
+add_core=PAN
+add_core=TIM
+trade_goods = cotton
+life_rating = 32
+terrain = plains

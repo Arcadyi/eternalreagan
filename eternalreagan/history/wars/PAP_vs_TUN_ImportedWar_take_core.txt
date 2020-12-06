@@ -1,0 +1,13 @@
+name = "Aragonese Reconquest of Mayurqa"
+
+1719.10.10 = {
+	add_attacker = PAP
+	add_defender = TUN
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = PAP
+		receiver = TUN
+		state_province_id = 502
+	}
+}

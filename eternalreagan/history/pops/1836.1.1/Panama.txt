@@ -1,0 +1,591 @@
+1723 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2166
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 337
+	}
+
+}
+2204 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 192
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 9241
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 266
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1436
+	}
+
+}
+2205 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4840
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 337
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = sunni
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = sunni
+		size= 64
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = sunni
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = sunni
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = sunni
+		size= 462
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = catholic
+		size= 126
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = catholic
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = catholic
+		size= 26
+	}
+
+}
+2206 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 87
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4193
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 123
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 696
+	}
+
+}
+2208 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2132
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = protestant
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = protestant
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = protestant
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = protestant
+		size= 313
+	}
+
+}

@@ -1,0 +1,629 @@
+#Sphere of Influence
+
+AAC = {
+	value = 0
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAD = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -136
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 50
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+CAB = {
+	value = 14
+	level = 2
+}
+CAL = {
+	value = -8
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = -139
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMA = {
+	value = 0
+	level = 2
+}
+COC = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 34
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = -15
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 93
+	influence_value = 10
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENA = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = -1
+	level = 2
+}
+FRA = {
+	value = -4
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -103
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HLL = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+KAN = {
+	value = 0
+	level = 2
+}
+KAQ = {
+	value = 0
+	level = 2
+}
+KGR = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 135
+	influence_value = 21
+	level = 3
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LOI = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -77
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -15
+	level = 2
+}
+MSK = {
+	value = 37
+	level = 2
+}
+MTA = {
+	value = -12
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+NEN = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = -2
+	level = 2
+}
+POR = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 139
+	influence_value = 22
+	level = 3
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SRM = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TLA = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+TPA = {
+	value = 0
+	level = 2
+}
+TPQ = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = -105
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = -5
+	level = 2
+}
+X04 = {
+	value = -7
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X16 = {
+	value = -7
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZNI = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Vittorio Belfuno"
+	date="1714.7.10"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Callistus Cornaro"
+	date="1714.7.12"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Paulus Abano"
+	date="1715.6.15"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Marzio Pontebba"
+	date="1719.10.11"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+
+#Armies
+navy = {
+	name="4th Fleet"
+	location=745
+	ship = {
+		name="1st Gaeta Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gaeta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Leghorn Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ancona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ancona Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armata di Terracina"
+	location=747
+	regiment = {
+		name="1st Leghorn Infantry"
+		type=infantry
+		home=745
+	}
+	regiment = {
+		name="2nd Leghorn Infantry"
+		type=infantry
+		home=745
+	}
+	regiment = {
+		name="1st Ancona Artillery"
+		type=artillery
+		home=752
+	}
+	regiment = {
+		name="1st Leghorn Artillery"
+		type=artillery
+		home=745
+	}
+	regiment = {
+		name="3rd Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="2nd Perugia Artillery"
+		type=artillery
+		home=751
+	}
+}
+
+army = {
+	name="Armata di Pisa"
+	location=751
+	regiment = {
+		name="1st Perugia Artillery"
+		type=artillery
+		home=751
+	}
+	regiment = {
+		name="2nd Ancona Artillery"
+		type=artillery
+		home=752
+	}
+	regiment = {
+		name="1st Gaeta Artillery"
+		type=artillery
+		home=2567
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=751
+	regiment = {
+		name="1st Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="2nd Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="4th Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+}
+
+army = {
+	name="Armata di Spoleto"
+	location=2567
+	regiment = {
+		name="1st Rome Artillery"
+		type=artillery
+		home=749
+	}
+	regiment = {
+		name="1st Florence Artillery"
+		type=artillery
+		home=744
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=750
+	ship = {
+		name="2nd Rome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Gaeta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Viterbo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Gaeta Frigate"
+		type=frigate
+	}
+}
+

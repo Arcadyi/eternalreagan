@@ -1,0 +1,7 @@
+owner=FRA
+controller=BAD
+add_core=ALS
+add_core=BAD
+trade_goods = grain
+life_rating = 33
+terrain = woods

@@ -1,0 +1,7 @@
+owner=CMA
+controller=TLA
+add_core=CMA
+add_core=GAM
+trade_goods = grain
+life_rating = 35
+terrain = farmlands

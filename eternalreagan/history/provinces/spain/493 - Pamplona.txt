@@ -1,0 +1,6 @@
+owner=X01
+controller=X01
+add_core=BSQ
+trade_goods = fruit
+life_rating = 35
+terrain = mountain

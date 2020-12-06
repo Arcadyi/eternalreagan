@@ -1,0 +1,18 @@
+owner=X01
+controller=X01
+add_core=X01
+trade_goods = coal
+life_rating = 35
+terrain = hills
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

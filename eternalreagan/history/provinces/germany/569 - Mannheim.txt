@@ -1,0 +1,13 @@
+owner=BAD
+controller=BAD
+add_core=GER
+add_core=KNZ
+trade_goods = grain
+life_rating = 40
+terrain = woods
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

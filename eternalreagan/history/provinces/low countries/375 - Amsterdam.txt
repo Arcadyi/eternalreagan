@@ -1,0 +1,14 @@
+owner=FLA
+controller=FLA
+add_core=FLA
+add_core=NET
+trade_goods = cattle
+life_rating = 35
+terrain = farmlands
+naval_base = 1
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

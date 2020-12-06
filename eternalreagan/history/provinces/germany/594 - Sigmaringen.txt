@@ -1,0 +1,9 @@
+owner=BAD
+controller=BAD
+add_core=GER
+add_core=BAD
+add_core=KNZ
+add_core=MEM
+trade_goods = grain
+life_rating = 40
+terrain = plains

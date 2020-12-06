@@ -1,0 +1,6 @@
+owner=AND
+controller=VIJ
+add_core=AND
+trade_goods = grain
+life_rating = 32
+terrain = plains

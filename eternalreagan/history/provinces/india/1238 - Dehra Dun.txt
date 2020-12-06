@@ -1,0 +1,5 @@
+owner=JNP
+controller=JNP
+trade_goods = tea
+life_rating = 32
+terrain = mountain

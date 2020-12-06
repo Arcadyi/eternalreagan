@@ -1,0 +1,8 @@
+owner=CHG
+controller=CHG
+add_core=BSK
+add_core=NOG
+add_core=SIB
+trade_goods = iron
+life_rating = 35
+terrain = forest

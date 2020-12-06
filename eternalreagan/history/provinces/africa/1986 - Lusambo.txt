@@ -1,0 +1,7 @@
+owner=TYO
+controller=KIK
+add_core=KUB
+add_core=TYO
+trade_goods = tropical_wood
+life_rating = 15
+terrain = jungle

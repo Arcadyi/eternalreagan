@@ -1,0 +1,8 @@
+owner=DEN
+controller=DEN
+add_core=GER
+add_core=HAM
+add_core=LUN
+trade_goods = cattle
+life_rating = 40
+terrain = plains

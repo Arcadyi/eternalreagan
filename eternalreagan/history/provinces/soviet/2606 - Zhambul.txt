@@ -1,0 +1,6 @@
+owner=CHG
+controller=CHG
+add_core=KAZ
+trade_goods = coal
+life_rating = 25
+terrain = hills

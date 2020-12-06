@@ -1,0 +1,7 @@
+owner=AAC
+controller=AAC
+add_core=GER
+add_core=AAC
+trade_goods = iron
+life_rating = 40
+terrain = farmlands

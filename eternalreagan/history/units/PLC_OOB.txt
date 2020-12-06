@@ -1,0 +1,641 @@
+#Sphere of Influence
+
+AAC = {
+	value = -3
+	level = 2
+}
+AIN = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+AND = {
+	value = 0
+	level = 2
+}
+ANT = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAD = {
+	value = -19
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUE = {
+	value = 0
+	level = 2
+}
+BUR = {
+	value = 0
+	level = 2
+}
+CAB = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHL = {
+	value = -6
+	level = 2
+}
+CIR = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CMA = {
+	value = 0
+	level = 2
+}
+COC = {
+	value = 0
+	level = 2
+}
+CRI = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -3
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DEN = {
+	value = -35
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DOM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENA = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FLA = {
+	value = -1
+	level = 2
+}
+FRA = {
+	value = 24
+	level = 2
+}
+FUL = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 39
+	military_access = yes
+	level = 2
+}
+GUG = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+KAN = {
+	value = 0
+	level = 2
+}
+KAQ = {
+	value = 0
+	level = 2
+}
+KGR = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = -3
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+LOI = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -5
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLI = {
+	value = 0
+	level = 2
+}
+MNG = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MTA = {
+	value = 0
+	level = 2
+}
+MUS = {
+	value = 0
+	level = 2
+}
+NEN = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = -3
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RIG = {
+	value = -2
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SRM = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+TDO = {
+	value = 0
+	level = 2
+}
+TIB = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TLA = {
+	value = 0
+	level = 2
+}
+TLX = {
+	value = 0
+	level = 2
+}
+TPA = {
+	value = 0
+	level = 2
+}
+TPQ = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = -6
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 38
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+ZNI = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Kazimierz Mycielski"
+	date="1717.12.23"
+	type=sea
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Svitrigaila Mniszech"
+	date="1718.9.2"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Armia z Sandomierz"
+	location=963
+	regiment = {
+		name="1st Tarnow Infantry"
+		type=infantry
+		home=714
+	}
+	regiment = {
+		name="1st Siauliai Infantry"
+		type=infantry
+		home=364
+	}
+	regiment = {
+		name="1st Lomza Infantry"
+		type=infantry
+		home=709
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=695
+	ship = {
+		name="1st Liepaja Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Memel Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ventspils Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Königsberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ventspils Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Swinemünde Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kolberg Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=709
+	regiment = {
+		name="1st Warsaw Infantry"
+		type=infantry
+		home=706
+	}
+	regiment = {
+		name="2nd Warsaw Infantry"
+		type=infantry
+		home=706
+	}
+	regiment = {
+		name="1st Kalisz Artillery"
+		type=artillery
+		home=717
+	}
+	regiment = {
+		name="1st Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="1st Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="2nd Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="2nd Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="3rd Plock Artillery"
+		type=artillery
+		home=708
+	}
+}
+
+army = {
+	name="Armia z Nowy Sacz"
+	location=719
+	regiment = {
+		name="1st Novy Sacz Infantry"
+		type=infantry
+		home=704
+	}
+	regiment = {
+		name="1st Panevezys Infantry"
+		type=infantry
+		home=363
+	}
+	regiment = {
+		name="1st Plock Cavalry"
+		type=cavalry
+		home=708
+	}
+	regiment = {
+		name="1st Mogilev Cavalry"
+		type=cavalry
+		home=948
+	}
+	regiment = {
+		name="2nd Plock Cavalry"
+		type=cavalry
+		home=708
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=695
+	ship = {
+		name="1st Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Königsberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jelgava Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Liepaja Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Königsberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Memel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Commonwealth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Königsberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Commonwealth Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=697
+	regiment = {
+		name="1st Gniezno Infantry"
+		type=infantry
+		home=701
+	}
+	regiment = {
+		name="1st Skierniewice Infantry"
+		type=infantry
+		home=710
+	}
+	regiment = {
+		name="1st Slutsk Cavalry"
+		type=cavalry
+		home=941
+	}
+	regiment = {
+		name="1st Kaunas Cavalry"
+		type=cavalry
+		home=361
+	}
+}
+

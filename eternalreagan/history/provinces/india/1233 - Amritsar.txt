@@ -1,0 +1,7 @@
+owner=TIM
+controller=TIM
+add_core=PAN
+add_core=TIM
+trade_goods = fruit
+life_rating = 32
+terrain = mountain

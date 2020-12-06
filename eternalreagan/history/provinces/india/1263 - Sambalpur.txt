@@ -1,0 +1,8 @@
+owner=JNP
+controller=JNP
+add_core=GRJ
+add_core=JNP
+add_core=PTT
+trade_goods = grain
+life_rating = 32
+terrain = hills

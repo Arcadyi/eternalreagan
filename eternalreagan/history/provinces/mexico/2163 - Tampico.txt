@@ -1,0 +1,11 @@
+owner=CST
+controller=CST
+add_core=CCM
+add_core=CST
+add_core=GAM
+add_core=HST
+add_core=OTO
+add_core=TOT
+trade_goods = fish
+life_rating = 35
+terrain = plains

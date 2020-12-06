@@ -1,0 +1,6 @@
+owner=TIM
+controller=TIM
+trade_goods = grain
+life_rating = 35
+terrain = desert
+naval_base = 1

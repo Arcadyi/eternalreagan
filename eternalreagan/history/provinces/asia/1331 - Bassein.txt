@@ -1,0 +1,8 @@
+owner=X07
+controller=X07
+add_core=BUR
+add_core=PEG
+add_core=X07
+trade_goods = fish
+life_rating = 30
+terrain = marsh

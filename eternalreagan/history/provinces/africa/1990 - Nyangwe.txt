@@ -1,0 +1,6 @@
+owner=KIK
+controller=KIK
+add_core=KIK
+trade_goods = fruit
+life_rating = 15
+terrain = jungle

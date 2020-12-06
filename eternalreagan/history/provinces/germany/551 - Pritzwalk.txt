@@ -1,0 +1,9 @@
+owner=KOL
+controller=DEN
+add_core=GER
+add_core=BRN
+add_core=KOL
+add_core=MAG
+trade_goods = cattle
+life_rating = 40
+terrain = plains

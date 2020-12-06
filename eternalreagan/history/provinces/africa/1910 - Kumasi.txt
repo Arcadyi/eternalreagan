@@ -1,0 +1,7 @@
+owner=MLI
+controller=MOR
+add_core=ASH
+add_core=MLI
+trade_goods = coffee
+life_rating = 15
+terrain = plains

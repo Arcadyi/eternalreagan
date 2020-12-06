@@ -1,0 +1,13 @@
+owner=X01
+controller=X01
+add_core=GLC
+trade_goods = fish
+life_rating = 35
+terrain = hills
+fort = 1
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

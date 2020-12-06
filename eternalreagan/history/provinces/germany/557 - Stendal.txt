@@ -1,0 +1,9 @@
+owner=KOL
+controller=KOL
+add_core=GER
+add_core=BRN
+add_core=HAM
+add_core=KOL
+trade_goods = grain
+life_rating = 40
+terrain = plains

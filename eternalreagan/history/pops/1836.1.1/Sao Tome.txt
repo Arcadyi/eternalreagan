@@ -1,0 +1,114 @@
+1954 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1600
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 355
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 1505
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 117
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 223
+	}
+
+}

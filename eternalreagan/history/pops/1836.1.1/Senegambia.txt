@@ -1,0 +1,1417 @@
+1783 = {
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 1060
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 627
+	}
+
+}
+1784 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 657
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 73
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 2842
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 424
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 1648
+	}
+
+}
+1785 = {
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 687
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 822
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 134
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 22720
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 206
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 33
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 836
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 2
+	}
+
+}
+1786 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 3200
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 216
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 1944
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 19
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 181
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 15883
+	}
+
+}
+1787 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 1104
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 121
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4724
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 712
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 278
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 2740
+	}
+
+}
+1788 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 2208
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 111
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 222
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 8441
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 1423
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 72
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 508
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 11
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 160
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 4885
+	}
+
+}
+1789 = {
+	slaves=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 3244
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 847
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 8
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 10405
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1920
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 312
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1849
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 18
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 6642
+	}
+
+}
+1790 = {
+	slaves=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 3009
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 487
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 5
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 6193
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1781
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1064
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 11
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 3147
+	}
+
+}
+1791 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 296
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 1701
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 1951
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 1147
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 83
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 9304
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1343
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 263
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1180
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 6402
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = shiite
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = shiite
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = shiite
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = shiite
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = shiite
+		size= 1
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = shiite
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = shiite
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = shamanism
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = shamanism
+		size= 633
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 124
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = shamanism
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = shamanism
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 3438
+	}
+
+}
+1792 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 5867
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 703
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 843
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 137
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 17430
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 278
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 211
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 576
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 10
+	}
+
+}
+1793 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 3353
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 610
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 731
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 118
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 16833
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 158
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 182
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 30
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 585
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 2
+	}
+
+}
+2573 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 3865
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 99
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 199
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 5672
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = sunni
+		size= 2491
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = sunni
+		size= 455
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = sunni
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = sunni
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = sunni
+		size= 3158
+	}
+
+}

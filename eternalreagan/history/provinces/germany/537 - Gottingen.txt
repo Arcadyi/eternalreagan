@@ -1,0 +1,10 @@
+owner=KOL
+controller=KOL
+add_core=GER
+add_core=BRA
+add_core=KOL
+add_core=MAG
+add_core=X03
+trade_goods = grain
+life_rating = 40
+terrain = woods

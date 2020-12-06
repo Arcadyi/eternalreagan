@@ -1,0 +1,6 @@
+owner=SIN
+controller=SIN
+add_core=BLC
+trade_goods = tea
+life_rating = 35
+terrain = mountain
