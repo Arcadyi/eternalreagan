@@ -1,4 +1,5 @@
-color = { 150  212  214 }
+color = { 235 235 235 }
+proletarian_dictatorship = { 200 10 10 }
 graphical_culture = EuropeanGC
 
 
@@ -42,7 +43,7 @@ party = {
 	trade_policy = free_trade
 	religious_policy = pluralism
 	citizenship_policy = full_citizenship
-	war_policy = anti_military
+	war_policy = pro_military
 }
 
 
