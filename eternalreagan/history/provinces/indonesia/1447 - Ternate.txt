@@ -1,5 +1,5 @@
-owner=EGY
-controller=EGY
+owner=MJP
+controller=MJP
 add_core=MAL
 add_core=TID
 trade_goods = fish
