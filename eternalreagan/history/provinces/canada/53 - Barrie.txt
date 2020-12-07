@@ -1,7 +1,6 @@
-owner=QUE
-controller=QUE
+owner=HUR
+controller=HUR
 add_core=HUR
-add_core=QUE
 trade_goods = grain
 life_rating = 35
 terrain = forest

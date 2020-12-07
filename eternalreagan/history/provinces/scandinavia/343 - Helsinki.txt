@@ -1,5 +1,5 @@
-owner=MUS
-controller=MUS
+owner=DEN
+controller=DEN
 add_core=FIN
 trade_goods = grain
 life_rating = 35
