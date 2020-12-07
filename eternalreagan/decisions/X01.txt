@@ -1,0 +1,264 @@
+political_decisions = {
+	reagans_landing = {
+		potential = {
+			tag = X01
+			owns = 474
+			owns = 475
+			owns = 476
+			owns = 478
+			owns = 479
+			owns = 480
+			owns = 481
+			owns = 482
+			owns = 483
+			owns = 484
+			owns = 485
+			owns = 486
+			owns = 487
+			owns = 488
+			owns = 489
+			owns = 490
+			owns = 491
+			owns = 492
+			owns = 493
+			owns = 494
+			owns = 495
+			owns = 496
+			owns = 497
+			owns = 498
+			owns = 499
+			owns = 500
+			owns = 501
+			owns = 503
+			owns = 504
+			owns = 505
+			owns = 506
+			owns = 507
+			owns = 508
+			owns = 509
+			owns = 510
+			owns = 511
+			owns = 512
+			owns = 513
+			owns = 514
+			owns = 515
+			owns = 516
+			owns = 517
+			owns = 518
+			owns = 519
+			owns = 520
+			owns = 521
+			owns = 522
+			owns = 523
+			owns = 524
+			owns = 525
+			owns = 526
+			owns = 527
+		}
+		
+		allow = {
+			prestige = 10
+		}	
+		
+		effect = {
+			474 = {
+				change_province_name = "Devotion"
+				state_scope = {
+					change_region_name = "Northwest Reagonia"
+					}
+				}
+			475 = {
+				change_province_name = "Mines of Tribulation"
+				}
+
+			476 = {
+				change_province_name = "Transformation"
+				}
+			477 = {
+				change_province_name = "His Inspiration"
+				}
+			478 = {
+				change_province_name = "Pious Coast"
+				}
+			479 = {
+				change_province_name = "Clarity"
+				}
+			480 = {
+				change_province_name = "His Warmth"
+				state_scope = {
+					change_region_name = "High Piety"
+					}
+				}
+			481 = {
+				change_province_name = "Illumination"
+				}
+			482 = {
+				change_province_name = "Under His Eye"
+				}
+			483 = {
+				change_province_name = "Dedication"
+				}
+			484 = {
+				change_province_name = "Lower Reagans Path"
+				}
+			485 = {
+				change_province_name = "Reagans Path"
+				}
+			486 = {
+				change_province_name = "Upper Reagans Path"
+				state_scope = {
+					change_region_name = "The Trickle-Down"
+					}
+				}
+			487 = {
+				change_province_name = "Barad-Dur"
+				}
+			488 = {
+				change_province_name = "Plains of Purity"
+				}
+			489 = {
+				change_province_name = "Hills of Purity"
+				}
+			490 = {
+				change_province_name = "His Embrace"
+				state_scope = {
+					change_region_name = "Middle Reagonia"
+					}
+				}
+			491 = {
+				change_province_name = "Plains of Enlightenment"
+				}
+			492 = {
+				change_province_name = "Mines of Fortitude"
+				}
+			493 = {
+				change_province_name = "His Strength"
+				}
+			494 = {
+				change_province_name = "Woods of Clarity"
+				}
+			495 = {
+				change_province_name = "His Infalibility"
+				}
+			496 = {
+				change_province_name = "Misty Mountains"
+				state_scope = {
+					change_region_name = "Western Fortitude"
+					}
+				}
+			497 = {
+				change_province_name = "Eternal Faith"
+				}
+			498 = {
+				change_province_name = "Port of Forgiveness"
+				}
+			499 = {
+				change_province_name = "The Black Gate"
+				}
+			500 = {
+				change_province_name = "Amon Sul"
+				state_scope = {
+					change_region_name = "Eastern Fortitude"
+					}
+				}
+			501 = {
+				change_province_name = "Fields of Forgiveness"
+				}
+			503 = {
+				change_province_name = "His Touch"
+				}
+			504 = {
+				change_province_name = "Gratitude"
+				}
+			505 = {
+				change_province_name = "Humility"
+				state_scope = {
+					change_region_name = "Eternal Light"
+					}
+				}
+			506 = {
+				change_province_name = "Deliverance"
+				}
+			507 = {
+				change_province_name = "Mines of Deliverance"
+				}
+			508 = {
+				change_province_name = "His Bosom"
+				}
+			509 = {
+				change_province_name = "The Eternal Throne"
+				}
+			510 = {
+				change_province_name = "Healing"
+				state_scope = {
+					change_region_name = "Eternal Healing"
+					}
+				}
+			511 = {
+				change_province_name = "Divinity"
+				}
+			512 = {
+				change_province_name = "His Embrace"
+				}
+			513 = {
+				change_province_name = "Pleasantville"
+				}
+			514 = {
+				change_province_name = "His Love Eternal"
+				}
+			515 = {
+				change_province_name = "Pleasant Hills"
+				state_scope = {
+					change_region_name = "Southern Reagonia"
+					}
+				}
+			516 = {
+				change_province_name = "Traditional Values"
+				}
+			517 = {
+				change_province_name = "Reagans Rock"
+				}
+			518 = {
+				change_province_name = "Torment"
+				}
+			519 = {
+				change_province_name = "Submission"
+				state_scope = {
+					change_region_name = "Upper Purgatory"
+					}
+				}
+			520 = {
+				change_province_name = "Field of Labour"
+				}
+			521 = {
+				change_province_name = "Port of Damnation"
+				state_scope = {
+					change_region_name = "Purgatory Coast"
+					}
+				}
+			522 = {
+				change_province_name = "Eternal Anguish"
+				}
+			523 = {
+				change_province_name = "Darkness"
+				}
+			524 = {
+				change_province_name = "Eternal Suffering"
+				}
+			525 = {
+				change_province_name = "Redemption"
+				}
+			526 = {
+				change_province_name = "Penance"
+				state_scope = {
+					change_region_name = "Reagans Mercy"
+					}
+				}
+			527 = {
+				change_province_name = "Atonement"
+				}
+			}
+			clr_global_flag = reagans_landing
+		}
+	}
+}	
