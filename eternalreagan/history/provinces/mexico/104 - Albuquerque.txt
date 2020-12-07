@@ -1,9 +1,9 @@
-owner=CST
-controller=CST
+owner=NAH
+controller=NAH
 add_core=KER
 add_core=NAH
 add_core=PUE
 trade_goods = cattle
 life_rating = 35
-terrain = steppe
+terrain = mountain
 colonial=2

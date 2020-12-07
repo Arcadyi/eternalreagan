@@ -1,5 +1,3 @@
-owner=CLM
-controller=CLM
 trade_goods = fruit
 life_rating = 15
 terrain = plains

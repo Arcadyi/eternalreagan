@@ -1,5 +1,5 @@
-owner=ENG
-controller=ENG
+owner=MLI
+controller=MLI
 add_core=BEN
 add_core=OYO
 trade_goods = tropical_wood

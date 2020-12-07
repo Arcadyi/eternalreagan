@@ -2,6 +2,6 @@ owner=YEM
 controller=EGY
 add_core=ENA
 add_core=HAR
-trade_goods = grain
+trade_goods = iron
 life_rating = 30
 terrain = mountain

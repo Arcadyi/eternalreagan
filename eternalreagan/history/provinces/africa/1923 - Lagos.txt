@@ -1,5 +1,5 @@
 owner=MLI
-controller=MOR
+controller=MLI
 add_core=MLI
 trade_goods = tropical_wood
 life_rating = 15

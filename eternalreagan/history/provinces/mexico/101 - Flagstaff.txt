@@ -1,5 +1,5 @@
-owner=CST
-controller=CST
+owner=NAH
+controller=NAH
 add_core=KER
 add_core=NAH
 trade_goods = cattle

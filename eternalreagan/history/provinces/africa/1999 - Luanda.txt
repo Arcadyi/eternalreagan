@@ -1,5 +1,5 @@
 owner=TYO
-controller=FRA
+controller=TYO
 add_core=KON
 add_core=TYO
 trade_goods = coffee

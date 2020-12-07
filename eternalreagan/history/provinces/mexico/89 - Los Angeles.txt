@@ -1,6 +1,6 @@
-owner=CAL
-controller=CAL
-add_core=CAL
+owner=ZNI
+controller=ZNI
+add_core=ZNI
 trade_goods = grain
 life_rating = 40
 terrain = hills

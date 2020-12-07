@@ -1,5 +1,5 @@
-owner=MEX
-controller=MEX
+owner=CST
+controller=CST
 add_core=AZT
 add_core=TEO
 trade_goods = dye
