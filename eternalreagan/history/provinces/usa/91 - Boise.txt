@@ -1,5 +1,3 @@
-owner=X16
-controller=X16
 trade_goods = wool
 life_rating = 35
 terrain = mountain

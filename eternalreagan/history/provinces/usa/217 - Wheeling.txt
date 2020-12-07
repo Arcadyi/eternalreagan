@@ -2,5 +2,5 @@ owner=NEN
 controller=NEN
 trade_goods = coal
 life_rating = 35
-terrain = hills
+terrain = mountain
 colonial=2

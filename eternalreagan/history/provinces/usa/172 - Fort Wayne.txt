@@ -1,6 +1,6 @@
-owner=LOU
-controller=LOU
-add_core=LOU
+owner=SHX
+controller=SHX
+add_core=SHX
 trade_goods = timber
 life_rating = 35
 terrain = woods

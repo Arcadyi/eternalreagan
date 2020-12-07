@@ -1,5 +1,5 @@
-owner=NEN
-controller=NEN
+owner=LOU
+controller=LOU
 trade_goods = fruit
 life_rating = 25
 terrain = marsh
