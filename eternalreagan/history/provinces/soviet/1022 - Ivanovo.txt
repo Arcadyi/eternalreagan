@@ -1,5 +1,5 @@
-owner=X06
-controller=X06
+owner=MUS
+controller=MUS
 add_core=MUS
 add_core=X06
 trade_goods = timber

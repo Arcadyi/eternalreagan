@@ -2,6 +2,6 @@ owner=BRZ
 controller=BRZ
 add_core=CHL
 add_core=INC
-trade_goods = wool
+trade_goods = coal
 life_rating = 35
 terrain = hills

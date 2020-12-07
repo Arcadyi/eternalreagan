@@ -1,6 +1,7 @@
-owner=BUE
-controller=BUE
+owner=BRZ
+controller=BRZ
 add_core=BUE
+add_core=BRZ
 trade_goods = cattle
 life_rating = 30
 terrain = jungle

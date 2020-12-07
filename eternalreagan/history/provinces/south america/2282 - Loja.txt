@@ -1,5 +1,5 @@
-owner=ENG
-controller=ENG
+owner=INC
+controller=INC
 add_core=CHM
 add_core=INC
 trade_goods = cattle

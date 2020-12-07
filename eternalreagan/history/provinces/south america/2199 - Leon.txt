@@ -1,5 +1,5 @@
-owner=MEX
-controller=MEX
+owner=MSK
+controller=MSK
 trade_goods = coffee
 life_rating = 30
 terrain = hills

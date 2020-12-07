@@ -1,5 +1,5 @@
-owner=CAB
-controller=CAB
+owner=INC
+controller=INC
 add_core=CAB
 trade_goods = grain
 life_rating = 30

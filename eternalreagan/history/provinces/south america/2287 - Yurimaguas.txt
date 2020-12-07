@@ -1,5 +1,5 @@
-owner=PEU
-controller=PEU
+owner=INC
+controller=INC
 add_core=INC
 add_core=PEU
 trade_goods = timber

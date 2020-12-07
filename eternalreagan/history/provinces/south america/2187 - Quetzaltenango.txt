@@ -1,4 +1,4 @@
-owner=COC
+owner=MEX
 controller=MEX
 add_core=CHT
 add_core=COC
