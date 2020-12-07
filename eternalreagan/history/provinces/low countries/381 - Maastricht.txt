@@ -1,5 +1,5 @@
-owner=KOL
-controller=KOL
+owner=FLA
+controller=FLA
 add_core=FLA
 trade_goods = coal
 life_rating = 35

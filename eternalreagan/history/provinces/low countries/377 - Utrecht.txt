@@ -1,5 +1,5 @@
-owner=KOL
-controller=KOL
+owner=FLA
+controller=FLA
 add_core=NET
 trade_goods = grain
 life_rating = 35

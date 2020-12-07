@@ -1,6 +1,5 @@
-owner=FRA
-controller=FRA
-add_core=AUS
+owner=FLA
+controller=FLA
 add_core=FLA
 trade_goods = sulphur
 life_rating = 35
