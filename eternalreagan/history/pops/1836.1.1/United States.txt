@@ -2421,7 +2421,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 900
+		size= 45201
 	}
 
 	soldiers=
@@ -2607,7 +2607,7 @@
 	{
 		culture = na_dene
 		religion = totemism
-		size= 1435
+		size= 57435
 	}
 
 	artisans=
@@ -2705,7 +2705,7 @@
 	{
 		culture = na_dene
 		religion = totemism
-		size= 14
+		size= 14000
 	}
 
 	bureaucrats=
@@ -3031,7 +3031,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 5991
+		size= 45991
 	}
 
 }
@@ -3210,7 +3210,7 @@
 	{
 		culture = sonoran
 		religion = totemism
-		size= 307
+		size= 13051
 	}
 
 	artisans=
@@ -4042,9 +4042,9 @@
 
 	farmers=
 	{
-		culture = sonoran
+		culture = siouan
 		religion = totemism
-		size= 2608
+		size= 26080
 	}
 
 	artisans=
@@ -4091,9 +4091,9 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = siouan
 		religion = protestant
-		size= 2
+		size= 25020
 	}
 
 	artisans=
@@ -4589,9 +4589,9 @@
 
 	farmers=
 	{
-		culture = caddoan
+		culture = siouan
 		religion = totemism
-		size= 493
+		size= 25493
 	}
 
 	artisans=
@@ -4617,9 +4617,9 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = siouan
 		religion = protestant
-		size= 2
+		size= 20500
 	}
 
 	artisans=
@@ -4917,7 +4917,7 @@
 	{
 		culture = siouan
 		religion = totemism
-		size= 12
+		size= 35087
 	}
 
 	farmers=
@@ -5716,9 +5716,9 @@
 
 	farmers=
 	{
-		culture = spanish
+		culture = sonoran
 		religion = catholic
-		size= 415
+		size= 20415
 	}
 
 }
@@ -5830,9 +5830,9 @@
 
 	farmers=
 	{
-		culture = spanish
+		culture = sonoran
 		religion = catholic
-		size= 402
+		size= 20402
 	}
 
 	aristocrats=
@@ -5944,9 +5944,9 @@
 
 	farmers=
 	{
-		culture = spanish
+		culture = caddoan
 		religion = catholic
-		size= 118
+		size= 15021
 	}
 
 	slaves=
@@ -6114,9 +6114,9 @@
 
 	farmers=
 	{
-		culture = spanish
+		culture = sonoran
 		religion = catholic
-		size= 661
+		size= 15561
 	}
 
 }
@@ -6242,9 +6242,9 @@
 
 	farmers=
 	{
-		culture = spanish
+		culture = caddoan
 		religion = totemism
-		size= 93
+		size= 20134
 	}
 
 }
@@ -6887,9 +6887,9 @@
 
 	farmers=
 	{
-		culture = mexican
+		culture = caddoan
 		religion = catholic
-		size= 415
+		size= 8013
 	}
 
 }
@@ -8934,9 +8934,9 @@
 
 	farmers=
 	{
-		culture = spanish
+		culture = sonoran
 		religion = catholic
-		size= 1122
+		size= 10122
 	}
 
 }
@@ -9211,9 +9211,9 @@
 
 	farmers=
 	{
-		culture = spanish
+		culture = sonoran
 		religion = catholic
-		size= 2393
+		size= 30393
 	}
 
 }
@@ -9460,9 +9460,9 @@
 
 	farmers=
 	{
-		culture = na_dene
+		culture = central_algonquian
 		religion = totemism
-		size= 18
+		size= 18678
 	}
 
 	artisans=
@@ -9765,9 +9765,9 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = central_algonquian
 		religion = protestant
-		size= 453
+		size= 45341
 	}
 
 }
@@ -9979,9 +9979,9 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = central_algonquian
 		religion = protestant
-		size= 209
+		size= 56023
 	}
 
 }

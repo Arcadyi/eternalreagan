@@ -517,7 +517,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 27250
+		size= 327250
 	}
 
 }
@@ -568,7 +568,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 30734
+		size= 230734
 	}
 
 }
@@ -770,7 +770,7 @@
 	{
 		culture = swedish
 		religion = catholic
-		size= 45712
+		size= 245712
 	}
 
 }

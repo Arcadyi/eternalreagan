@@ -1,133 +1,133 @@
 474 = {
 	soldiers=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 2445
 	}
 
 	craftsmen=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 5758
 	}
 
 	artisans=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 2750
 	}
 
 	clergymen=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 398
 	}
 
 	clerks=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 87
 	}
 
 	bureaucrats=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 30
 	}
 
 	officers=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 25
 	}
 
 	capitalists=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 66
 	}
 
 	aristocrats=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 257
 	}
 
 	farmers=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
-		size= 110425
+		size= 80425
 	}
 
 	soldiers=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 276
 	}
 
 	craftsmen=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 651
 	}
 
 	artisans=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 3372
 	}
 
 	clergymen=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 487
 	}
 
 	clerks=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 106
 	}
 
 	bureaucrats=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 37
 	}
 
 	officers=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 30
 	}
 
 	capitalists=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 82
 	}
 
 	aristocrats=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 315
 	}
@@ -136,7 +136,7 @@
 	{
 		culture = galician
 		religion = hussite
-		size= 8451
+		size= 48451
 	}
 
 	soldiers=
@@ -257,7 +257,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 19917
+		size= 219917
 	}
 
 	soldiers=
@@ -355,98 +355,98 @@
 476 = {
 	soldiers=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 1173
 	}
 
 	artisans=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 1319
 	}
 
 	clergymen=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 191
 	}
 
 	bureaucrats=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 123
 	}
 
 	farmers=
 	{
-		culture = galician
+		culture = yankee
 		religion = catholic
 		size= 55804
 	}
 
 	soldiers=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 149
 	}
 
 	artisans=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 1655
 	}
 
 	clergymen=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 239
 	}
 
 	bureaucrats=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 33
 	}
 
 	officers=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 154
 	}
 
 	farmers=
 	{
-		culture = galician
+		culture = yankee
 		religion = hussite
 		size= 5215
 	}
@@ -569,7 +569,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 34679
+		size= 334679
 	}
 
 	soldiers=
@@ -909,7 +909,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 39879
+		size= 239879
 	}
 
 	soldiers=
@@ -1680,63 +1680,63 @@
 
 	soldiers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 32
 	}
 
 	craftsmen=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 242
 	}
 
 	artisans=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 1359
 	}
 
 	clergymen=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 126
 	}
 
 	clerks=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 88
 	}
 
 	bureaucrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 10
 	}
 
 	officers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 8
 	}
 
 	capitalists=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 67
 	}
 
 	aristocrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 163
 	}
@@ -2008,7 +2008,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 27720
+		size= 327720
 	}
 
 	soldiers=
@@ -2406,7 +2406,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 51836
+		size= 251836
 	}
 
 	soldiers=
@@ -2606,7 +2606,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 50262
+		size= 150262
 	}
 
 	soldiers=
@@ -2662,196 +2662,196 @@
 492 = {
 	soldiers=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 1117
 	}
 
 	craftsmen=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 5814
 	}
 
 	artisans=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 1576
 	}
 
 	clergymen=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 147
 	}
 
 	clerks=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 71
 	}
 
 	bureaucrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 12
 	}
 
 	officers=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 9
 	}
 
 	capitalists=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 54
 	}
 
 	aristocrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 95
 	}
 
 	farmers=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
-		size= 46936
+		size= 186936
 	}
 
 	soldiers=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 5
 	}
 
 	craftsmen=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 387
 	}
 
 	clergymen=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 36
 	}
 
 	clerks=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 2
 	}
 
 	capitalists=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 23
 	}
 
 	soldiers=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 122
 	}
 
 	craftsmen=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 635
 	}
 
 	artisans=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 2389
 	}
 
 	clergymen=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 222
 	}
 
 	clerks=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 107
 	}
 
 	bureaucrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 17
 	}
 
 	officers=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 14
 	}
 
 	capitalists=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 82
 	}
 
 	aristocrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 143
 	}
@@ -2860,7 +2860,7 @@
 	{
 		culture = basque
 		religion = hussite
-		size= 2368
+		size= 52368
 	}
 
 	soldiers=
@@ -2937,140 +2937,140 @@
 493 = {
 	soldiers=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 887
 	}
 
 	artisans=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 1217
 	}
 
 	clergymen=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 113
 	}
 
 	bureaucrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 12
 	}
 
 	officers=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 73
 	}
 
 	farmers=
 	{
-		culture = basque
+		culture = yankee
 		religion = catholic
 		size= 42019
 	}
 
 	soldiers=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 341
 	}
 
 	clergymen=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 32
 	}
 
 	bureaucrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = protestant
 		size= 20
 	}
 
 	soldiers=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 101
 	}
 
 	artisans=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 1912
 	}
 
 	clergymen=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 178
 	}
 
 	bureaucrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 19
 	}
 
 	officers=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 115
 	}
 
 	farmers=
 	{
-		culture = basque
+		culture = yankee
 		religion = hussite
 		size= 2730
 	}
@@ -3172,7 +3172,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 22987
+		size= 222987
 	}
 
 	soldiers=
@@ -3277,98 +3277,98 @@
 495 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 10333
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 2240
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 208
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 29
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 135
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 51051
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 95
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 2574
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 239
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 33
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 154
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1657
 	}
@@ -3426,98 +3426,98 @@
 496 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 850
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1487
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 138
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 11
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 89
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 39901
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 76
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1752
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 163
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 13
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 105
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1669
 	}
@@ -3575,98 +3575,98 @@
 497 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 882
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1543
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 143
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 11
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 93
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 41403
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 76
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1811
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 168
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 13
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 109
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1636
 	}
@@ -3724,91 +3724,91 @@
 498 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 2013
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1007
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 327
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 35
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 211
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
-		size= 97059
+		size= 67059
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 80
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1086
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 353
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 38
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 228
 	}
@@ -3817,7 +3817,7 @@
 	{
 		culture = catalan
 		religion = hussite
-		size= 2182
+		size= 32182
 	}
 
 	soldiers=
@@ -3873,91 +3873,91 @@
 499 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 900
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1012
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 146
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 11
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 94
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 42807
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 65
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1158
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 167
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 13
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 108
 	}
@@ -3966,7 +3966,7 @@
 	{
 		culture = catalan
 		religion = hussite
-		size= 1733
+		size= 61733
 	}
 
 	soldiers=
@@ -4022,98 +4022,98 @@
 500 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 640
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1120
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 104
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 8
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 67
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 30046
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 44
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1275
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 118
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 9
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 76
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 683
 	}
@@ -4171,98 +4171,98 @@
 501 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 966
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1690
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 157
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 22
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 203
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 45248
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 77
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1960
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 182
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 25
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 235
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1360
 	}
@@ -4320,42 +4320,42 @@
 502 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 582
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 2326
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 436
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 29
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 47
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 489
 	}
@@ -4371,98 +4371,98 @@
 503 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 2102
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 3513
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1142
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 123
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 70
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 738
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 97404
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 33
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 758
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 246
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 27
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 159
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 430
 	}
@@ -4471,91 +4471,91 @@
 504 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1026
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1026
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 333
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 431
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 48425
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 39
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 1103
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 358
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 28
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 463
 	}
@@ -4564,98 +4564,98 @@
 505 = {
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1847
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 1847
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 600
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 46
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 37
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 776
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = catholic
 		size= 87209
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 81
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 2009
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 653
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 50
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 40
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 844
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = yankee
 		religion = hussite
 		size= 358
 	}
@@ -4708,7 +4708,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 45317
+		size= 345317
 	}
 
 }
@@ -4759,7 +4759,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 20467
+		size= 320467
 	}
 
 }
@@ -4861,7 +4861,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 79753
+		size= 279753
 	}
 
 }
@@ -4963,7 +4963,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 29135
+		size= 229135
 	}
 
 }
@@ -5021,133 +5021,133 @@
 513 = {
 	soldiers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 1659
 	}
 
 	craftsmen=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 6919
 	}
 
 	artisans=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 2903
 	}
 
 	clergymen=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 270
 	}
 
 	clerks=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 104
 	}
 
 	bureaucrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 29
 	}
 
 	officers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 17
 	}
 
 	capitalists=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 80
 	}
 
 	aristocrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 174
 	}
 
 	farmers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 70790
 	}
 
 	soldiers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 79
 	}
 
 	craftsmen=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 328
 	}
 
 	artisans=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 3178
 	}
 
 	clergymen=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 295
 	}
 
 	clerks=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 114
 	}
 
 	bureaucrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 32
 	}
 
 	officers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 18
 	}
 
 	capitalists=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 88
 	}
 
 	aristocrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 191
 	}
@@ -5219,105 +5219,105 @@
 	{
 		culture = yankee
 		religion = hussite
-		size= 519
+		size= 230519
 	}
 
 }
 514 = {
 	soldiers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 1429
 	}
 
 	artisans=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 2501
 	}
 
 	clergymen=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 232
 	}
 
 	bureaucrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 32
 	}
 
 	officers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 150
 	}
 
 	farmers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
-		size= 67097
+		size= 367097
 	}
 
 	soldiers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 228
 	}
 
 	artisans=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 3298
 	}
 
 	clergymen=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 306
 	}
 
 	bureaucrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 42
 	}
 
 	officers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 198
 	}
 
 	farmers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 7295
 	}
@@ -5375,98 +5375,98 @@
 515 = {
 	soldiers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 858
 	}
 
 	artisans=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 966
 	}
 
 	clergymen=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 139
 	}
 
 	bureaucrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 11
 	}
 
 	officers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
 		size= 180
 	}
 
 	farmers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = sunni
-		size= 40749
+		size= 240749
 	}
 
 	soldiers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 131
 	}
 
 	artisans=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 1261
 	}
 
 	clergymen=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 182
 	}
 
 	bureaucrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 14
 	}
 
 	officers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 235
 	}
 
 	farmers=
 	{
-		culture = andalucian
+		culture = yankee
 		religion = hussite
 		size= 4734
 	}

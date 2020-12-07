@@ -34,11 +34,11 @@
 		size= 83
 	}
 
-	capitalists=
+	farmers=
 	{
 		culture = icelandic
 		religion = catholic
-		size= 15
+		size= 80567
 	}
 
 	aristocrats=
@@ -659,7 +659,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 50993
+		size= 350993
 	}
 
 	soldiers=
@@ -759,7 +759,7 @@
 	{
 		culture = danish
 		religion = catholic
-		size= 15754
+		size= 215754
 	}
 
 	soldiers=

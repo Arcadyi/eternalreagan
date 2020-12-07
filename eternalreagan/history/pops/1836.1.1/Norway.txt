@@ -936,7 +936,7 @@
 	{
 		culture = norwegian
 		religion = catholic
-		size= 17806
+		size= 217806
 	}
 
 	soldiers=

@@ -1041,7 +1041,7 @@
 	{
 		culture = yankee
 		religion = catholic
-		size= 12538
+		size= 172538
 	}
 
 	soldiers=

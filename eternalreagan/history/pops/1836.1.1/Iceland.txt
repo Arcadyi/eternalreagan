@@ -66,7 +66,7 @@
 	{
 		culture = icelandic
 		religion = catholic
-		size= 2360
+		size= 160360
 	}
 
 	soldiers=

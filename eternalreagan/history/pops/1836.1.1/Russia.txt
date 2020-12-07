@@ -1499,7 +1499,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 155240
+		size= 355240
 	}
 
 }
@@ -1652,7 +1652,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 98379
+		size= 698379
 	}
 
 }
@@ -1703,7 +1703,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 52696
+		size= 352696
 	}
 
 	artisans=
@@ -1986,7 +1986,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 134770
+		size= 634770
 	}
 
 	artisans=
