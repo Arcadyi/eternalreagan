@@ -2,6 +2,6 @@ owner=MNG
 controller=MNG
 add_core=MNG
 add_core=QIC
-trade_goods = cotton
+trade_goods = grain
 life_rating = 32
 terrain = plains

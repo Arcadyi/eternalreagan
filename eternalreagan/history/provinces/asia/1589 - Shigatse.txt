@@ -1,5 +1,5 @@
-owner=BNG
-controller=BNG
+owner=TIB
+controller=TIB
 add_core=ASM
 add_core=TIB
 add_core=UTS
