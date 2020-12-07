@@ -1,5 +1,6 @@
 owner=CHG
 controller=CHG
+add_core=MUS
 add_core=NOG
 add_core=SIB
 trade_goods = timber
