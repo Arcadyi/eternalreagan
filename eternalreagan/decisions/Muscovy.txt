@@ -1,0 +1,26 @@
+political_decisions = {
+  conquest_east_MUS = {
+    potential = {
+		tag = MUS
+		civilized = yes
+		exists = CHG
+		}
+	allow = {
+		war = no
+		year = 1725
+	}
+	effect = {
+		badboy = 5
+		prestige = 20
+		war = {
+		target = CHG
+		attacker_goal = { casus_belli = conquest }
+	    defender_goal = { casus_belli = humiliate }
+	    call_ally = yes
+		}
+	}
+	ai_will_do = {
+		factor = 1
+	}
+  }		
+}
