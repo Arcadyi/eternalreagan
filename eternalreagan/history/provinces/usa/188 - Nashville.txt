@@ -1,5 +1,6 @@
-owner=NEN
-controller=NEN
+owner=CHE
+controller=CHE
+add_core=CHE
 trade_goods = grain
 life_rating = 35
 terrain = woods

@@ -1,7 +1,7 @@
-owner=NEN
-controller=NEN
-add_core=CCW
+owner=CRK
+controller=CRK
 add_core=CRK
+add_core=CCW
 trade_goods = cotton
 life_rating = 35
 terrain = plains
