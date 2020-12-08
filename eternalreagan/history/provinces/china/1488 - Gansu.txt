@@ -1,5 +1,5 @@
-owner=CHG
-controller=CHG
+owner=YRK
+controller=YRK
 add_core=BYA
 add_core=CHG
 add_core=HMI

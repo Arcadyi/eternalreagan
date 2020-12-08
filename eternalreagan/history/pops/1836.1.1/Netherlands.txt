@@ -294,7 +294,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 139
+		size= 31390
 	}
 
 	artisans=
@@ -322,7 +322,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 10
+		size= 4510
 	}
 
 	aristocrats=
@@ -336,7 +336,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 5430
+		size= 95430
 	}
 
 }
@@ -487,14 +487,14 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 36144
+		size= 96144
 	}
 
 	soldiers=
 	{
 		culture = dutch
 		religion = protestant
-		size= 456
+		size= 34456
 	}
 
 	artisans=
@@ -522,7 +522,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 63
+		size= 6300
 	}
 
 	aristocrats=
@@ -530,6 +530,13 @@
 		culture = dutch
 		religion = protestant
 		size= 440
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 38920
 	}
 
 	farmers=
@@ -587,7 +594,7 @@
 	{
 		culture = dutch
 		religion = catholic
-		size= 10
+		size= 1000
 	}
 
 	capitalists=
@@ -606,16 +613,16 @@
 
 	farmers=
 	{
-		culture = dutch
+		culture = flemish
 		religion = catholic
-		size= 18920
+		size= 88920
 	}
 
 	soldiers=
 	{
 		culture = dutch
 		religion = protestant
-		size= 452
+		size= 3452
 	}
 
 	craftsmen=
@@ -678,7 +685,7 @@
 	{
 		culture = dutch
 		religion = protestant
-		size= 6361
+		size= 86361
 	}
 
 }
@@ -687,7 +694,7 @@
 	{
 		culture = flemish
 		religion = catholic
-		size= 1263
+		size= 4263
 	}
 
 	artisans=

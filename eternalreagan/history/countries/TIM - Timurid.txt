@@ -1,7 +1,8 @@
 capital = 1212
-primary_culture = uzbek
+primary_culture = azerbaijani
 culture = panjabi
 culture = pashtun
+culture = uzbek
 culture = persian
 culture = zzz_religion_sunni
 religion = sunni

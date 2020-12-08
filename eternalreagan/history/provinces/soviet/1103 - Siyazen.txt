@@ -1,5 +1,5 @@
-owner=CHG
-controller=CHG
+owner=TIM
+controller=TIM
 add_core=DKU
 add_core=GZK
 add_core=NOG
