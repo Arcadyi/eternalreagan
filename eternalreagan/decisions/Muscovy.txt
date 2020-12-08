@@ -8,7 +8,12 @@ political_decisions = {
 	allow = {
 		war = no
 		year = 1725
-		military_score = 50
+		NOT = {
+		CHG = {
+        military_score = THIS
+		}
+		truce_with = CHG 
+		}
 	}
 	effect = {
 		badboy = 5
