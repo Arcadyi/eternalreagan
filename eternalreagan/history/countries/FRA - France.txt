@@ -1,12 +1,13 @@
 capital = 425
 primary_culture = french
 culture = occitan
+culture = breton
 culture = zzz_religion_hussite
 religion = hussite
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.136515
+literacy = 0.256515
 
 civilized = yes
 

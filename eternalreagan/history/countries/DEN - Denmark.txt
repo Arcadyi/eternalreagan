@@ -2,12 +2,14 @@ capital = 372
 primary_culture = danish
 culture = norwegian
 culture = swedish
+culture = icelandic
+culture = finnish
 culture = zzz_religion_protestant
 religion = protestant
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.172932
+literacy = 0.532932
 
 civilized = yes
 

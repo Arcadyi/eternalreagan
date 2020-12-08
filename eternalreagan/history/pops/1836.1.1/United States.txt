@@ -7618,9 +7618,9 @@
 
 	farmers=
 	{
-		culture = muskogean
-		religion = totemism
-		size= 4458
+		culture = nouvellien
+		religion = protestant
+		size= 67458
 	}
 
 	slaves=
@@ -8638,9 +8638,9 @@
 
 	farmers=
 	{
-		culture = caddoan
-		religion = totemism
-		size= 963
+		culture = nouvellien
+		religion = protestant
+		size= 50321
 	}
 
 	slaves=

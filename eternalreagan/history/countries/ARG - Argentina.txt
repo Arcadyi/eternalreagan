@@ -1,12 +1,13 @@
-capital = 2373
-primary_culture = falklander
-culture = araucanian
+capital = 2364
+primary_culture = platinean
+culture = aimara
+culture = guarani
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.116585
+literacy = 0.356585
 
 civilized = yes
 
