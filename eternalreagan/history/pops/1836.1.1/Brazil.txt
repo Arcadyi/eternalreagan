@@ -6062,7 +6062,7 @@
 
 	farmers=
 	{
-		culture = tupi
+		culture = nouvellien
 		religion = animist
 		size= 97249
 	}

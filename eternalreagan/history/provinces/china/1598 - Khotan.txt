@@ -1,5 +1,5 @@
-owner=CHG
-controller=CHG
+owner=YRK
+controller=YRK
 add_core=XIN
 add_core=YRK
 trade_goods = grain

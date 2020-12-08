@@ -1,7 +1,8 @@
-capital = 1600
+capital = 2606
 primary_culture = kirgiz
 culture = mongol
 culture = tatar
+culture = kazakh
 culture = zzz_religion_sunni
 religion = sunni
 government = absolute_monarchy

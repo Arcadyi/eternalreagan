@@ -1,5 +1,5 @@
 capital = 2447
-primary_culture = french
+primary_culture = nouvellienllien
 culture = guarani
 culture = tupi
 culture = zzz_religion_catholic

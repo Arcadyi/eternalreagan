@@ -1267,9 +1267,9 @@
 2328 = {
 	soldiers=
 	{
-		culture = araucanian
-		religion = animist
-		size= 102
+		culture = north_german
+		religion = catholic
+		size= 35998
 	}
 
 	artisans=
@@ -1295,9 +1295,9 @@
 
 	officers=
 	{
-		culture = araucanian
-		religion = animist
-		size= 3
+		culture = north_german
+		religion = catholic
+		size= 9987
 	}
 
 	aristocrats=
@@ -1309,9 +1309,9 @@
 
 	farmers=
 	{
-		culture = araucanian
-		religion = animist
-		size= 9987
+		culture = north_german
+		religion = catholic
+		size= 159987
 	}
 
 	soldiers=

@@ -1,5 +1,5 @@
-owner=CHG
-controller=CHG
+owner=YRK
+controller=YRK
 add_core=CHG
 add_core=KHA
 add_core=OIR

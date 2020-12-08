@@ -1,12 +1,13 @@
-capital = 388
+capital = 380
 primary_culture = flemish
 culture = dutch
+culture = wallonian
 culture = zzz_religion_protestant
 religion = protestant
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.182918
+literacy = 0.532918
 
 civilized = yes
 
