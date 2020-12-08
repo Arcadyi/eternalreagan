@@ -1,7 +1,7 @@
 defines = {
 
-start_date = '1723.1.31',
-end_date = '1935.12.31',
+start_date = '1836.1.1',
+end_date = '1966.1.1',
 
 country = {
 	YEARS_OF_NATIONALISM 	= 20,   -- Years of Nationalism

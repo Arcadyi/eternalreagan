@@ -4,7 +4,7 @@ country_event = {
 	desc = "Several ministers are said to have returned to their home provinces and are actively riling up the local population against our rule."
 
 	trigger = {
-	    year = 1725
+	    year = 1840
 		tag = TUR
 		average_militancy = 3
 	}

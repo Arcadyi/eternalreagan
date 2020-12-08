@@ -7,7 +7,7 @@ political_decisions = {
 		}
 	allow = {
 		war = no
-		year = 1725
+		year = 1840
 		NOT = {
 		CHG = {
         military_score = THIS
@@ -16,7 +16,7 @@ political_decisions = {
 		}
 	}
 	effect = {
-		badboy = 5
+		badboy = 4.5
 		prestige = 20
 		war = {
 		target = CHG
