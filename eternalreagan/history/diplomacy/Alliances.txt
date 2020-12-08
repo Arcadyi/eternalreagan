@@ -521,14 +521,6 @@ alliance=
 alliance=
 {
 	first="X00"
-	second="CHG"
-	start_date="1669.10.24"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X00"
 	second="JAP"
 	start_date="1722.1.11"
 	end_date="1936.1.1"
