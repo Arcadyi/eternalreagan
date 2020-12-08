@@ -1,5 +1,6 @@
-owner=TIM
-controller=TIM
+owner=CHG
+controller=CHG
+add_core=MUS
 add_core=AZB
 add_core=GZK
 add_core=NOG

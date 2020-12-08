@@ -1,0 +1,251 @@
+country_event = {
+	id = 99800
+	title = "Rebellion"
+	desc = "Several ministers are said to have returned to their home provinces and are actively riling up the local population against our rule."
+
+	trigger = {
+	    year = 1840
+		tag = TUR
+		average_militancy = 3
+	}
+	
+		fire_only_once = yes
+		
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "Damn them all!"		
+		prestige = -40
+		##Crimea
+        973 = {
+		secede_province = CRI
+		} 
+		974 = {
+		secede_province = CRI
+		}
+		975 = {
+		secede_province = CRI
+		}
+		976 = {
+		secede_province = CRI
+		}
+		979 = {
+		secede_province = CRI
+		}
+		1047 = {
+		secede_province = CRI
+		}
+		1048 = {
+		secede_province = CRI
+		}
+		1049 = {
+		secede_province = CRI
+		}
+		965 = {
+		secede_province = CRI
+		}
+		964 = {
+		secede_province = CRI
+		}
+		967 = {
+		secede_province = CRI
+		}
+		966 = {
+		secede_province = CRI
+		}
+		##Georgia
+		1095 = {
+		secede_province = GEO
+		}
+		1094 = {
+		secede_province = GEO
+		}
+		1092 = {
+		secede_province = GEO
+		}
+		1093 = {
+		secede_province = GEO
+		}
+		1091 = {
+		secede_province = GEO
+		}
+		1090 = {
+		secede_province = GEO
+		}
+		##Circassia
+		1050 = {
+		secede_province = CIR
+		}
+		1056 = {
+		secede_province = CIR
+		}
+		1051 = {
+		secede_province = CIR
+		}
+		##Armenia
+		1101 = {
+		secede_province = ARM
+		}
+		1105 = {
+		secede_province = ARM
+		}
+		1100 = {
+		secede_province = ARM
+		}
+		1106 = {
+		secede_province = ARM
+		}
+		1099 = {
+		secede_province = ARM
+		}
+		1098 = {
+		secede_province = ARM
+		}
+	}
+	option = {
+		name = "Crush this insurrection!"		
+		prestige = -40
+		badboy = 5
+		##Crimea
+        973 = {
+		secede_province = CRI
+		} 
+		974 = {
+		secede_province = CRI
+		}
+		975 = {
+		secede_province = CRI
+		}
+		976 = {
+		secede_province = CRI
+		}
+		979 = {
+		secede_province = CRI
+		}
+		1047 = {
+		secede_province = CRI
+		}
+		1048 = {
+		secede_province = CRI
+		}
+		1049 = {
+		secede_province = CRI
+		}
+		965 = {
+		secede_province = CRI
+		}
+		964 = {
+		secede_province = CRI
+		}
+		967 = {
+		secede_province = CRI
+		}
+		966 = {
+		secede_province = CRI
+		}
+		##Georgia
+		1095 = {
+		secede_province = GEO
+		}
+		1094 = {
+		secede_province = GEO
+		}
+		1092 = {
+		secede_province = GEO
+		}
+		1093 = {
+		secede_province = GEO
+		}
+		1091 = {
+		secede_province = GEO
+		}
+		1090 = {
+		secede_province = GEO
+		}
+		##Circassia
+		1050 = {
+		secede_province = CIR
+		}
+		1056 = {
+		secede_province = CIR
+		}
+		1051 = {
+		secede_province = CIR
+		}
+		##Armenia
+		1101 = {
+		secede_province = ARM
+		}
+		1105 = {
+		secede_province = ARM
+		}
+		1100 = {
+		secede_province = ARM
+		}
+		1106 = {
+		secede_province = ARM
+		}
+		1099 = {
+		secede_province = ARM
+		}
+		1098 = {
+		secede_province = ARM
+		}
+    war = {
+	    target = CRI
+	    attacker_goal = { casus_belli = conquest }
+	    defender_goal = { casus_belli = status_quo }
+	    call_ally = no
+	}
+	    war = {
+	    target = ARM
+	    attacker_goal = { casus_belli = conquest }
+	    defender_goal = { casus_belli = status_quo }
+	    call_ally = no
+	}
+	    war = {
+	    target = GEO
+	    attacker_goal = { casus_belli = conquest }
+	    defender_goal = { casus_belli = status_quo }
+	    call_ally = no
+	}
+    }
+}
+
+country_event = {
+    id = 99801
+	title = "Treason from our puppet"
+	desc = "Seeing the weakened hold over the region, our puppet has followed suit and declared independence"
+	
+	trigger = {
+		tag = TUR
+		exists = CRI
+	}
+	
+	mean_time_to_happen = {
+		months = 3 
+	}
+	fire_only_once = yes
+	option = {
+		name = "Our hands are tied"
+		prestige = -20
+		TUR = {
+		release_vassal = X06
+		}
+	}	
+	option = {
+		name = "Hang the Traitors!"
+		prestige = -10
+		TUR = {
+		release_vassal = X06
+		}
+	    war = {
+	    target = X06
+	    attacker_goal = { casus_belli = make_puppet }
+	    defender_goal = { casus_belli = status_quo }
+	    call_ally = no
+	   }
+	}
+}

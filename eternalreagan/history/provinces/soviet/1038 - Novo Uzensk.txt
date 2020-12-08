@@ -1,5 +1,6 @@
 owner=CHG
 controller=CHG
+add_core=MUS
 add_core=AKH
 add_core=CHG
 add_core=NOG

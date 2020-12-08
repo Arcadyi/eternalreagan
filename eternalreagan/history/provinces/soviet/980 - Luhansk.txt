@@ -1,5 +1,6 @@
 owner=X06
 controller=X06
+add_core=MUS
 add_core=X06
 add_core=UKR
 trade_goods = cattle

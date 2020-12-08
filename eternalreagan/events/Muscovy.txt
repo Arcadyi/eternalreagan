@@ -1,0 +1,45 @@
+country_event = {
+	id = 99802
+	title = "Timurid Representative Arrives"
+	desc = "A representative from the Timurids has arrived, congratulating us on our victory and asked that talks be held about the future of the region."
+
+	trigger = {
+		tag = MUS
+		exists = TIM
+		NOT = { exists = CHG }
+	}
+	
+	fire_only_once = yes
+	allow_multiple_instances = no
+		
+	mean_time_to_happen = {
+		months = 2
+	}
+	
+	option = {
+		name = "Approve a fair territorial split"		
+		prestige = 5
+		1202 = {
+		secede_province = TIM
+		}
+		relation = {
+		  MUS = {
+		  who = TIM
+		  value = 70
+		  }
+		}
+	}
+	
+	option = {
+		name = "Annex the entire region"		
+		prestige = 10
+		badboy = 3
+		relation = {
+		  MUS = {
+		  who = TIM
+		  value = -70
+		  }
+		}
+	}
+}
+
