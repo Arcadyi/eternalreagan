@@ -2,24 +2,23 @@ country_event = {
 	id = 99802
 	title = "Timurid Representative Arrives"
 	desc = "A representative from the Timurids has arrived, congratulating us on our victory and asked that talks be held about the future of the region."
-
-	trigger = {
-		tag = MUS
-		exists = TIM
-		NOT = { exists = CHG }
-	}
-	
-	fire_only_once = yes
-	allow_multiple_instances = no
+	is_triggered_only = yes
 		
 	mean_time_to_happen = {
 		months = 2
 	}
 	
 	option = {
-		name = "Approve a fair territorial split"		
+		name = "Approve the purchase and stabilization of territories"		
 		prestige = 5
-		1202 = {
+		money = 30000
+		TIM = {
+		country_event = 99804
+		}
+		1208 = {
+		secede_province = TIM
+		}
+		1192 = {
 		secede_province = TIM
 		}
 		relation = {
@@ -31,13 +30,12 @@ country_event = {
 	}
 	
 	option = {
-		name = "Annex the entire region"		
+		name = "Mother Russia Eats all"		
 		prestige = 10
-		badboy = 3
 		relation = {
 		  MUS = {
 		  who = TIM
-		  value = -70
+		  value = -200
 		  }
 		}
 	}

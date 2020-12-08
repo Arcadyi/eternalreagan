@@ -1,0 +1,51 @@
+country_event = {
+	id = 99803
+	title = "Moscow wins the war!"
+	desc = "Our close geopolitical ally Muscowy has won the war against the Chagatai, perhaps we could discuss the future of the region"
+	
+	trigger = {
+		tag = TIM
+		exists = MUS
+		NOT = { exists = CHG }
+		MUS = {
+		owns= 1192
+		}
+	}
+	
+	fire_only_once = yes
+	allow_multiple_instances = no
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "Ask for a fair deal"
+		prestige = -2
+		money = -30000
+        MUS = {
+		country_event = 99802
+		}
+		ai_will_do = {
+		factor = 1
+	    }
+	}
+	option = {
+		name = "We cannot afford this"		
+        prestige = -2
+	}
+}
+
+country_event = {
+	id = 99804
+	title = "Moscow Accepts Fair Deal!"
+	desc = "Our close geopolitical ally has accepted a fair deal of a transfer of territories"
+    
+	is_triggered_only = yes
+
+	option = {
+		name = "Rejoice!"		
+		prestige = 3
+	}
+}
+	
